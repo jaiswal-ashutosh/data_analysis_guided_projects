@@ -33,7 +33,7 @@
       Now check if there are any null values in columns. If there are null value then drop those rows in which null values are present.
       <br>
       Now install textblob package and import TextBlob from textblob.
-      <li>pip install textblob</li>
+      <li><b>pip install textblob</b></li>
       Find sentiment polarity of comment_text column and stored in a new column.
       If comments polarity is 1 then there are positive comments. If comments polarity is -1 then there are negative comments.
     <br>
@@ -41,10 +41,10 @@
   <br>
   Now we can visualize positive and negative words using wordcloud and matplotlib.
       <br>
-      Now <li>pip install emoji</li> and import emoji. find the emoji's uses in comments and list it. Count which emoji is sent how much time. Plot the graph of emoji counts using plotly.
+      Now <li><b>pip install emoji</b></li> and import emoji. find the emoji's uses in comments and list it. Count which emoji is sent how much time. Plot the graph of emoji counts using plotly.
     </p>
     <p>
-      Store multiple country data csv files in a list. Read all files and stored in a data frame.
+      Store multiple country data csv files in a list. Read all files and stored in a data frame. By using head method check columns of the data frame. Read category file and map both files by using category id and category name.
     </p>
   </span>
   </div>
