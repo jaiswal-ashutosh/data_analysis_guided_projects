@@ -29,8 +29,9 @@
       Read comments.csv file. Check first rows and columns using head method.
       Now check if there are any null values in columns. If there are null value then drop those rows in which null values are present.
       <br>
-      Now install textblob package
+      Now install textblob package and import TextBlob from textblob.
       <li>pip install textblob</li>
+      Find sentiment polarity of comment_text column
     </p>
   </span>
   </div>
