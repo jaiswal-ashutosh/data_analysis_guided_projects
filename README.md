@@ -16,7 +16,7 @@
   </li>
   </ul>
   <div>
-  <h2>Youtube Sentiment Analysis</h2>
+  <h2><a href="https://github.com/jaiswal-ashutosh/data-analyst-projects/blob/master/Youtube_analysis.ipynb">Youtube Sentiment Analysis</a></h2>
   First 
   <li>import pandas as pd</li>
   <li>import numpy as np</li>
