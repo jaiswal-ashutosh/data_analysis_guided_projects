@@ -33,6 +33,10 @@
       <li>pip install textblob</li>
       Find sentiment polarity of comment_text column and stored in a new column.
       If comments polarity is 1 then there are positive comments. If comments polarity is -1 then there are negative comments.
+    <br>
+   Now install wordcloud package and import WordCloud and STOPWORDS from wordcloud.
+  <hr>
+  Now we can visualize positive and negative words using wordcloud and matplotlib.
       
     </p>
   </span>
