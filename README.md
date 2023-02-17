@@ -15,3 +15,12 @@
     pip install seaborn
   </li>
   </ul>
+  <div>
+  <h2>Youtube Sentiment Analysis</h2>
+  First 
+  <li>import pandas as pd</li>
+  <li>import numpy as np</li>
+  <li>import seaborn as sns</li>
+  <li>import matplotlib.pyplot as plt</li>
+  </div>
+  
