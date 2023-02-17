@@ -45,6 +45,11 @@
     </p>
     <p>
       Store multiple country data csv files in a list. Read all files and stored in a data frame. By using head method check columns of the data frame. Read category file and map both files by using category id and category name.
+      <br>
+      Group the data by category names and it's likes. Use the bar plot show which category have most likes.
+      <br>
+      To check whether audience is engaged or not find likes rate, dislike rate and comment rate. For whole data plot a regression plot between views and likes using seaborn.
+      
     </p>
   </span>
   </div>
