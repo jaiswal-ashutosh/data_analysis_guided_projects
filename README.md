@@ -49,7 +49,12 @@
       Group the data by category names and it's likes. Use the bar plot show which category have most likes.
       <br>
       To check whether audience is engaged or not find likes rate, dislike rate and comment rate. For whole data plot a regression plot between views and likes using seaborn.
-      
+      <br>
+      <br>
+      To check which channel have the largest number of videos group by channel title and total videos.
+       <br>
+      <br>
+      To check punctuation in title impact on views first count punctuation in each title and stored in a coulmn, and then graph a boxplot between views and likes.
     </p>
   </span>
   </div>
