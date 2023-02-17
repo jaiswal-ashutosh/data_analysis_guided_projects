@@ -43,6 +43,9 @@
       <br>
       Now <li>pip install emoji</li> and import emoji. find the emoji's uses in comments and list it. Count which emoji is sent how much time. Plot the graph of emoji counts using plotly.
     </p>
+    <p>
+      Store multiple country data csv files in a list. Read all files and stored in a data frame.
+    </p>
   </span>
   </div>
   
