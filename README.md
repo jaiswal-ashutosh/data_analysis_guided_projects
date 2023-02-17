@@ -14,6 +14,9 @@
   <li>
     pip install seaborn
   </li>
+  <li>
+    pip install plotly
+  </li>
   </ul>
   <div>
   <h2><a href="https://github.com/jaiswal-ashutosh/data-analyst-projects/blob/master/Youtube_analysis.ipynb">Youtube Sentiment Analysis</a></h2>
@@ -35,9 +38,10 @@
       If comments polarity is 1 then there are positive comments. If comments polarity is -1 then there are negative comments.
     <br>
    Now install wordcloud package and import WordCloud and STOPWORDS from wordcloud.
-  <hr>
+  <br>
   Now we can visualize positive and negative words using wordcloud and matplotlib.
-      
+      <br>
+      Now <b>pip install emoji</b> and import emoji. find the emoji's uses in comments and list it. Count which emoji is sent how much time.
     </p>
   </span>
   </div>
