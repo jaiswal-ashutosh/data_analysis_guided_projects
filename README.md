@@ -31,7 +31,9 @@
       <br>
       Now install textblob package and import TextBlob from textblob.
       <li>pip install textblob</li>
-      Find sentiment polarity of comment_text column
+      Find sentiment polarity of comment_text column and stored in a new column.
+      If comments polarity is 1 then there are positive comments. If comments polarity is -1 then there are negative comments.
+      
     </p>
   </span>
   </div>
