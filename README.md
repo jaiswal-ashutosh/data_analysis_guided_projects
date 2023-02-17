@@ -41,7 +41,7 @@
   <br>
   Now we can visualize positive and negative words using wordcloud and matplotlib.
       <br>
-      Now <b>pip install emoji</b> and import emoji. find the emoji's uses in comments and list it. Count which emoji is sent how much time.
+      Now <b>pip install emoji</b> and import emoji. find the emoji's uses in comments and list it. Count which emoji is sent how much time. Plot the graph of emoji counts using plotly.
     </p>
   </span>
   </div>
